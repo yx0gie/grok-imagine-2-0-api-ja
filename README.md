@@ -105,6 +105,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-4a8c05) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [grok-imagine-2-0-prompts-ja](https://github.com/yx0gie/grok-imagine-2-0-prompts-ja)
+- **Same model, other languages** — 9 more language builds: 中文 [grok-imagine-2-0-api-cn](https://github.com/q7zvwq45nz481l/grok-imagine-2-0-api-cn) · Deutsch `grok-imagine-2-0-api-de` · Español `grok-imagine-2-0-api-es` · Français `grok-imagine-2-0-api-fr` · Relay/gateway `grok-imagine-2-0-api-gateway` · Bahasa [grok-imagine-2-0-api-id](https://github.com/pqwyoiqhp/grok-imagine-2-0-api-id) · 한국어 `grok-imagine-2-0-api-ko` · Português [grok-imagine-2-0-api-pt](https://github.com/et3yo6leiak/grok-imagine-2-0-api-pt) · Русский [grok-imagine-2-0-api-ru](https://github.com/c3lmgfyau8zz/grok-imagine-2-0-api-ru)
+- **More models in this language** — [midjourney-api-ja](https://github.com/apimartt1q/midjourney-api-ja) · [gemini-2-5-flash-image-preview-api-ja](https://github.com/ic7skkh/gemini-2-5-flash-image-preview-api-ja) · [nano-banana-api-ja](https://github.com/e4ylndl3g-v/nano-banana-api-ja) · [gemini-3-1-flash-image-preview-api-ja](https://github.com/gv4ju/gemini-3-1-flash-image-preview-api-ja) · [nano-banana-2-api-ja](https://github.com/lpbxkrzbfel/nano-banana-2-api-ja) · [gemini-3-pro-image-preview-api-ja](https://github.com/zzsxs8r/gemini-3-pro-image-preview-api-ja)
+- **Topic hubs** — every build of this model, all languages: [grok-imagine-2-0](https://github.com/topics/grok-imagine-2-0) · [grok-imagine-2-0-api](https://github.com/topics/grok-imagine-2-0-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
